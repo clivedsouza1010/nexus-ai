@@ -1,0 +1,9 @@
+{
+  "name": "NexusAI Interviewer",
+  "description": "Real-time AI-driven interview practice platform with dynamic scenarios, instant feedback, and comprehensive skill tracking.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": []
+}
